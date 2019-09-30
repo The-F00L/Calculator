@@ -1,0 +1,8 @@
+-Három változó legyen:
+első szám, második szám, eredmény
+
+-Lehessen összeadni, kivonni, szorozni.
+
+-Ha rá kattintunk valamelyik műveletre akkor a többit tiltsuk le addig amig nem nyomunk a "C" gombra.
+
+-Tudományosban ha rákattintunk akkor jöjjön elő az osztás és a maradékos osztás. (egyénileg)
